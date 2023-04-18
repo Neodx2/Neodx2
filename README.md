@@ -3,7 +3,7 @@
 
 Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
 
-### 🧑‍💻 Currently working on:
+### 💻 Currently working on:
 - [Lights Down](https://github.com/NeoDarkless/LightsDown) - A Python text adventure horror game.
 - [NeoDarkless.github.io](https://neodarkless.github.io) - My GH Pages website. (It's currently empty)
 
