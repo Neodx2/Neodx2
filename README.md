@@ -1,4 +1,4 @@
-# 🎩 NeoDL
+# 🔼🔽 NeoDL
 ### 👋 Welcome to my Github profile!
 
 Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
