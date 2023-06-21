@@ -5,8 +5,8 @@ Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I su
 
 ### ⌨️ Languages I know:
 - Python
-- Bit of C++
-- Basic HTML
+- Bit of C
+- Basic HTML-CSS-JS
 
 ### 💻 Currently working on:
 - [NeoDarkless.github.io](https://neodarkless.github.io) - My GH Pages website.
