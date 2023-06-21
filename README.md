@@ -9,16 +9,17 @@ Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I su
 - Basic HTML
 
 ### 💻 Currently working on:
-- [Random Python Stuff](https://github.com/NeoDarkless/RandomPythonStuff) - Random Python stuff.
+- [NeoDarkless.github.io](https://neodarkless.github.io) - My GH Pages website.
+- [NPMP](https://github.com/NeoDarkless/NPMP) - A multipurpose Python thing.
+- [NeoBot](https://github.com/NeoDarkless/NeoBot) - My Discord bot.
 - [Lights Down](https://github.com/NeoDarkless/LightsDown) - A Python text adventure horror game.
-- 🔒 DDText - A text adventure concept version of a game I want to make in the future
-- [NeoDarkless.github.io](https://neodarkless.github.io) - My GH Pages website. (It's currently empty)
 
 ### 👥 I'm a part of:
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
+- [Arduino Coding](https://github.com/The-arduino-bot)
 
 ### 💬 You can find me on:
-- **Discord:** NeoDarkless#3332
+- **Discord:** neodarkless 
 - **YouTube:** [NeoDarkless](https://www.youtube.com/@neodarkless)
 - **Minecraft JE:** NeoDL
 - **Roblox:** [goldchicken144](https://web.roblox.com/users/963333948/profile)
