@@ -3,10 +3,12 @@
 
 Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
 
-### ⌨️ Languages I know:
+### ⌨️ What I code:
 - Python
-- Bit of C
-- Basic HTML-CSS-JS
+- Learning C
+- Learning Web Development (HTML CSS JS)
+- Bit of Arduino (basically c++)
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,arduino&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
 - [NeoDarkless.github.io](https://neodarkless.github.io) - My GH Pages website.
