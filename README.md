@@ -8,6 +8,7 @@ Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I su
 - Learning C
 - Learning Web Development (HTML CSS JS)
 - Bit of Arduino (basically c++)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,arduino&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
