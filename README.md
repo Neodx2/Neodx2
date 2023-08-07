@@ -1,7 +1,7 @@
 # 🔼🔽 Neo
 ## 👋 Welcome to my Github profile!
 
-Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
+Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
 
 ### ⌨️ What I code:
 - Python
