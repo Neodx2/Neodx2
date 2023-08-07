@@ -10,8 +10,8 @@ Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I su
 <br>[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
-- [NeoDarkless.github.io](https://neodarkless.github.io) - My GH Pages website.
-- [NPMP](https://github.com/NeoDarkless/NPMP) - A multipurpose Python thing.
+- [NeoDarkless.tk](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website.
+- [NPMP](https://github.com/NeoDarkless/NPMP) - A random Python thing.
 - [NeoBot](https://github.com/NeoDarkless/NeoBot) - My Discord bot.
 - [Lights Down](https://github.com/NeoDarkless/LightsDown) - A Python text adventure horror game.
 
@@ -21,7 +21,7 @@ Hello there, I'm Neo. I make random projects whenever I feel like it. Also, I su
 
 ### 💬 You can find me on:
 - **Discord:** neodarkless 
-- **YouTube:** [NeoDarkless](https://www.youtube.com/@neodarkless)
+- **YouTube:** [Neo](https://www.youtube.com/@neodarkless)
 - **Minecraft JE:** NeoDL
 - **Roblox:** [goldchicken144](https://web.roblox.com/users/963333948/profile)
 - **Replit:** [NeoDarkless](https://replit.com/@NeoDarkless)
