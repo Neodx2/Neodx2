@@ -5,22 +5,19 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 
 ### ⌨️ What I code:
 - Python
-- Learning C
 - Learning Web Development (HTML CSS JS)
-<br>[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
-- [NeoDarkless.tk](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website.
+- [NeoDarkless.github.io](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website.
 - [NPMP](https://github.com/NeoDarkless/NPMP) - A random Python thing.
-- [NeoBot](https://github.com/NeoDarkless/NeoBot) - My Discord bot.
-- [Lights Down](https://github.com/NeoDarkless/LightsDown) - A Python text adventure horror game.
 
 ### 👥 I'm a part of:
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
 - [Arduino Coding](https://github.com/The-arduino-bot)
 
 ### 💬 You can find me on:
-- **Discord:** neodarkless 
+- **Discord:** neodl
 - **YouTube:** [Neo](https://www.youtube.com/@neodarkless)
 - **Minecraft JE:** NeoDL
 - **Roblox:** [goldchicken144](https://web.roblox.com/users/963333948/profile)
