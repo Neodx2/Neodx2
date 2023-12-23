@@ -1,17 +1,16 @@
-# 🔼🔽 Neo
+# Neo
 ## 👋 Welcome to my Github profile!
 
 Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
 
 ### ⌨️ What I code:
 - Python
-- Web Development (HTML CSS JS)
+- Web Development
 <br>[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
-- [NeoDarkless.github.io](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website.
-- [GCSE CS Challenges](https://github.com/NeoDarkless/gcse-cs-challenges) - Python challenges from my GCSE Computer Science course.
-- [NPMP](https://github.com/NeoDarkless/NPMP) - A random Python thing.
+- [NeoDarkless.github.io](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website
+- Small GameMaker projects to learn it for a game I'm planning to make
 
 ### 👥 I'm a part of:
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
