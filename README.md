@@ -9,7 +9,7 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 <br>[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
-- [NeoDarkless.github.io](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website
+- [NeoDarkless.me](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website
 - Small GameMaker projects to learn it for a game I'm planning to make
 
 ### 👥 I'm a part of:
