@@ -16,9 +16,9 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
 
 ### 💬 You can find me on:
-- **Discord:** neodl
+- **Discord:** neodel2
 - **YouTube:** [Neo](https://www.youtube.com/@neodarkless)
-- **Minecraft:** NeoDL
+- **Minecraft:** Neodel_
 - **Roblox:** [goldchicken144](https://web.roblox.com/users/963333948/profile)
 - **Replit:** [NeoDarkless](https://replit.com/@NeoDarkless)
 - **Join my Discord server:** [The Darkless Cave](https://discord.gg/wVxDspyPBe)
