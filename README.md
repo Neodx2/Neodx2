@@ -10,6 +10,8 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 
 ### 💻 Currently working on:
 - [NeoDarkless.me](https://github.com/NeoDarkless/neodarkless.github.io) - My GH Pages website
+- [GCSE CS Challenges](https://github.com/NeoDarkless/gcse-cs-challenges) - Computer Science GCSE work
+- [Dungeon Game](https://github.com/NeoDarkless/dungeon-game) - Text-based game for CS
 - Small GameMaker projects to learn it for a game I'm planning to make
 
 ### 👥 I'm a part of:
