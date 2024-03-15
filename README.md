@@ -25,15 +25,6 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 - **Replit:** [NeoDarkless](https://replit.com/@NeoDarkless)
 - **Join my Discord server:** [The Darkless Cave](https://discord.gg/wVxDspyPBe)
 
-The cycle of programming 
-```mermaid
-graph TD;
-    Lack of motivation-->Idea;
-    Idea-->Concept;
-    Concept-->Failure;
-    Failure-->Lack of motivation;
-```
-
 ### 😁 Happy coding!
 <!---
 NeoDarkless/NeoDarkless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
