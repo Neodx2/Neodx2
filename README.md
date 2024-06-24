@@ -19,7 +19,7 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
 
 ### 🍵 Buy me a coffee:
-https://ko-fi.com/neodel
+- https://ko-fi.com/neodel
 
 ### 💬 You can find me on:
 - **Discord:** neodels
