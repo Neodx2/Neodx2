@@ -13,8 +13,6 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 
 ### 💻 Currently working on:
 - [NeoDarkless.me](https://github.com/Neodels/neodels.github.io) - My GH Pages website
-- [GCSE CS Challenges](https://github.com/Neodels/gcse-cs-challenges) - Computer Science GCSE work
-- [Dungeon Game](https://github.com/Neodels/dungeon-game) - Text-based game for CS
 - A GameMaker game
 
 ### 👥 I'm a part of:
@@ -25,11 +23,8 @@ https://ko-fi.com/neodel
 
 ### 💬 You can find me on:
 - **Discord:** neodels
-- **YouTube:** [Neo](https://www.youtube.com/@neodarkless)
+- **YouTube:** [Neo](https://www.youtube.com/@neodel)
 - **Minecraft:** Neodels
-- **Roblox:** [goldchicken144](https://web.roblox.com/users/963333948/profile)
-- **Replit:** [NeoDarkless](https://replit.com/@NeoDarkless)
-- **Join my Discord server:** [The Darkless Cave](https://discord.gg/wVxDspyPBe)
 
 ### 😁 Happy coding!
 <!---
