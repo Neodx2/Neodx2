@@ -3,7 +3,7 @@
 
 Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
 
-🇬🇧 UK - he/him
+🇬🇧 UK
 
 ### ⌨️ What I code:
 - Python
