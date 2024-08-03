@@ -8,23 +8,22 @@ Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at pro
 ### ⌨️ What I code:
 - Python
 - Web Development
-- GML (GameMaker Studio)
 <br>[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,gamemakerstudio,&theme=dark)](https://skillicons.dev)
 
 ### 💻 Currently working on:
-- [NeoDarkless.me](https://github.com/Neodels/neodels.github.io) - My GH Pages website
+- [NeoDarkless.me](https://github.com/Neodx2/neodels.github.io) - My GH Pages website
 - A GameMaker game
 
 ### 👥 I'm a part of:
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
 
 ### 🍵 Buy me a coffee:
-- https://ko-fi.com/neodel
+- https://ko-fi.com/neodx2
 
 ### 💬 You can find me on:
-- **Discord:** neodels
-- **YouTube:** [Neo](https://www.youtube.com/@neodel)
-- **Minecraft:** Neodels
+- **Discord:** neo.dx2
+- **YouTube:** [Neo](https://www.youtube.com/@neodx2)
+- **Minecraft:** Neodx2
 
 ### 😁 Happy coding!
 <!---
