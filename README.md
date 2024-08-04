@@ -1,24 +1,34 @@
-# Neo
-## 👋 Welcome to my Github profile!
+# Neo's GitHub Profile
 
-Hi, I'm Neo. I make random projects whenever I feel like it. Also, I suck at programming. :)
+Hi, I'm Neo
+I type letters on a screen and sometimes it does stuff.
 
 🇬🇧 UK
 
-### ⌨️ What I code:
-- Python
-- Frontend Web
-<br>[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,&theme=dark)](https://skillicons.dev)
+## ⌨️ What I code:
+### I like Python
+![](https://github.com/Neodx2/Neodx2/blob/main/python-beloved.gif)
+### I do frontend web development (HTML, CSS, JS)
+![](https://github.com/Neodx2/Neodx2/blob/main/css-html.gif)
+### Trying to learn game dev (Godot)
+![](https://github.com/Neodx2/Neodx2/blob/main/gamedev.gif)
 
-### 💻 Currently working on:
+### 💻 Current projects:
+`Last updated 04 Aug 24`
 - [NeoDarkless.me](https://github.com/Neodx2/neodels.github.io) - My GH Pages website
 - A 3D Godot game called "Physics Park"
 
+### 📕 Studying:
+GCSE Maths, English (Lit+Lang), Physics, Chemistry,
+Biology, Computer Science, Geography, History, Mandarin Chinese
+
 ### 👥 I'm a part of:
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
+- I'm alone
 
 ### 🍵 Buy me a coffee:
 - https://ko-fi.com/neodx2
+- pwetty pwease
 
 ### 💬 You can find me on:
 - **Discord:** neo.dx2
