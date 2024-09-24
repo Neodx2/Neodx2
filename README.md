@@ -34,7 +34,36 @@ I type letters on a screen and sometimes it does stuff.
 - **Minecraft:** Neodx2
 
 ### 😁 Happy coding!
-<!---
-Neodels/Neodels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+### My Stats
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Neodx2show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag&theme">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Neodx2&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme">
+  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Neodx2&size_weight=0.5&count_weight=0.5&layout=donut&theme">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Neodx2&size_weight=0.5&count_weight=0.5&layout=donut&theme">
+  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Neodx2&theme">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Neodx2&theme">
+  <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
+</picture>
+
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Neodx2&no-bg=true&no-frame=true&row=3&column=3">
+  <img scr="https://github-profile-trophy.vercel.app/?username=Neodx2&no-bg=true&no-frame=true&row=3&column=3">
+</picture>
+
+<br/>
+</p>
+
+
+****
