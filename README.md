@@ -13,7 +13,7 @@ https://neodx2.tech
 | Trying to learn game dev | Programming is boring ngl |
 | <img src="https://github.com/Neodx2/Neodx2/blob/main/game-dev.gif" height="250" width="250"> | |
 
-![neodx2's Stats](https://github-readme-stats.vercel.app/api?username=neodx2&theme=prussian&show_icons=true&hide_border=true&count_private=false)
+![neodx2's Stats](https://github-readme-stats.vercel.app/api?username=neodx2&theme=prussian&show_icons=true&hide_border=true&count_private=false)</br>
 ![neodx2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neodx2&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ### 💻 Current projects:
